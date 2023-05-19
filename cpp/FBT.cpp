@@ -11,8 +11,11 @@
 #include <cmath> // abs
 #include <math.h>
 #include <stdio.h>
+#include <stdlib.h>
 #include <iostream>
 #include "FBT.h"
+
+using namespace std;
 
 //acknowledgement
 void FBT::acknowledgement(){
